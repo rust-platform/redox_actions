@@ -22,7 +22,7 @@ on:
 
 env:
   REPO_URL: https://github.com/rust-platform/redox
-  REPO_BRANCH: master
+  REPO_BRANCH: 0.4.1
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
